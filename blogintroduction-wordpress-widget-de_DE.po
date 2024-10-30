@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: blogintroduction 0.2.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/blogintroduction-wordpress-widget\n"
+"POT-Creation-Date: 2009-01-11 19:42+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kim Huebel <kim@huebel-online.de>\n"
+"Language-Team: Kim Huebel <kim@huebel-online.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: blogintroduction.php:67
+msgid "Title:"
+msgstr "Titel:"
+
+#: blogintroduction.php:68
+msgid "<a href=\"http://www.websnapr.com\" target=\"_new\">Websnapr</a>-API-Key:"
+msgstr ""
+
+#: blogintroduction.php:69
+msgid "Image-width:"
+msgstr "Bild-Breite:"
+
+#: blogintroduction.php:70
+msgid "Image-height:"
+msgstr "Bild-Höhe:"
+
+#: blogintroduction.php:72
+msgid "Use 4:3-ratio:"
+msgstr "Benutze 4:3-Verhältnis:"
+
+#: blogintroduction.php:72
+msgid "Checked means using 4:1-ratio for image"
+msgstr "Auswählen, um 4:3-Verhältnis zu verwenden"
+
+#: blogintroduction.php:74
+msgid "Image-Source:"
+msgstr "Bild-Quelle:"
+
+#: blogintroduction.php:78
+msgid "get thumbs from websnapr"
+msgstr "Thumbs von websnapr holen"
+
+#: blogintroduction.php:79
+msgid "get thumbs via image-link in link-manager"
+msgstr "thumbs via Bild-URL aus Link-Manager"
+
+
+#: blogintroduction.php:84
+msgid "Link-category:"
+msgstr "Link-Kategorie:"
+
+#: blogintroduction.php:89
+msgid "View all Categories"
+msgstr "Alle Kategorien anzeigen"
+
+#: blogintroduction.php:96
+msgid "Link-target:"
+msgstr "Link-Ziel:"
+
+#: blogintroduction.php:100
+msgid "in actual window"
+msgstr "im aktuellen Fenster"
+
+#: blogintroduction.php:101
+msgid "in new window"
+msgstr "im neuen Fenster"
+
+#: blogintroduction.php:107
+msgid "Show description:"
+msgstr "Beschreibung anzeigen:"
+
+#: blogintroduction.php:107 blogintroduction.php:108
+msgid "Checked means viewing"
+msgstr "Auswählen zur Anzeige"
+
+#: blogintroduction.php:108
+msgid "Show private links:"
+msgstr "Private Links anzeigen:"
+
+#: blogintroduction.php:109
+msgid "Show new thumbnail in ... seconds:"
+msgstr "Neuen Thumbnail per Ajax in ... Sekunden:"
+
+#: blogintroduction.php:109
+msgid "Check this box to activate automatic renew of the thumbnail"
+msgstr "Auswählen, um Aktualisierung per AJAX zu aktivieren"
+
+#: blogintroduction.php:109
+msgid "put in here the amount of seconds to wait for the new thumnail"
+msgstr "Hier die Anzahl der Sekunden zum Refreh angeben"
+
+#: blogintroduction.php:125 blogintroduction_ajax.php:22
+msgid "Blogintroduction"
+msgstr "Blogvorstellung"
+
+#: blogintroduction.php:185 blogintroduction_ajax.php:81
+msgid "Description"
+msgstr "Beschreibung"
+
